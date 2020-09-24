@@ -1,0 +1,7 @@
+.background-image {
+  height: 500px;
+  background-image: url("surfers.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
